@@ -1,6 +1,7 @@
 language: python
 cache: pip
 install:
-  - pip install PySide2
+  - pip install Flask
+  - pip install Flask-SQLAlchemy
 script:
-  - python test.py
+  - python seecmail_driver.py
