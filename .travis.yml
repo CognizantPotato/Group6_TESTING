@@ -4,4 +4,4 @@ install:
   - pip install Flask
   - pip install Flask-SQLAlchemy
 script:
-  - python seecmail_driver.py
+  - python seecmail_test.py
