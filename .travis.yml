@@ -1,7 +1,3 @@
 language: python
-cache: pip
-install:
-  - pip install Flask
-  - pip install Flask-SQLAlchemy
 script:
   - python seecmail_test.py
