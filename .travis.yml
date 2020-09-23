@@ -1,1 +1,6 @@
 language: python
+cache: pip
+install:
+  - pip install PySide2
+script:
+  - python test.py
