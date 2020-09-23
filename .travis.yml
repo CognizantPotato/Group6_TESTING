@@ -1,6 +1,1 @@
 language: python
-  
-  
-  
-script:
-  - seecmail_driver
