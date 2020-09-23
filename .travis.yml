@@ -1,5 +1,6 @@
 language: python
-python:
-  - "3.7"
+  
+  
+  
 script:
-  - seecmail_driver.py
+  - seecmail_driver
